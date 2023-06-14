@@ -1,5 +1,5 @@
-- [ ] Selection sort
-- [ ] Bubble sort
+- [x] Selection sort
+- [x] Bubble sort
 - [ ] Deleting an element in an array
 - [ ] Inserting an element in an array
 - [ ] Trace of a matrix using functions
