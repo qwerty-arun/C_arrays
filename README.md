@@ -1,1 +1,14 @@
-# C_arrays
+- [ ] Selection sort
+- [ ] Bubble sort
+- [ ] Deleting an element in an array
+- [ ] Inserting an element in an array
+- [ ] Trace of a matrix using functions
+- [ ] Multiplication of matrices using functions
+- [ ] Move all zeroes to end
+- [ ] Right and left shifting of elements
+- [ ] Rank of a matrix using echolon form and also using minors
+- [ ] Remove duplicate elements in an array
+- [ ] Insertion sort
+- [ ] Sort array in wave form
+- [ ] Find sub-array with given sum
+- [ ] 
