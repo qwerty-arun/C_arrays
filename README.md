@@ -2,7 +2,7 @@
 - [x] Bubble sort
 - [ ] Deleting an element in an array
 - [ ] Inserting an element in an array
-- [ ] Trace of a matrix using functions
+- [x] Trace of a matrix using functions
 - [ ] Multiplication of matrices using functions
 - [ ] Move all zeroes to end
 - [ ] Right and left shifting of elements
