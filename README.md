@@ -11,4 +11,5 @@
 - [ ] Insertion sort
 - [ ] Sort array in wave form
 - [ ] Find sub-array with given sum
+- [ ] Merge two arrays
 - [ ] 
