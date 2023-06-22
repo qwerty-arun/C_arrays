@@ -28,4 +28,5 @@ int main()
         for(int i=0;i<n;i++)
                 printf("%d ",p[i]);
         printf("\n");
+        free(p);
 }
