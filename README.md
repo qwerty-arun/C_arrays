@@ -5,7 +5,7 @@
 - [x] Trace of a matrix using functions
 - [ ] Multiplication of matrices using functions
 - [ ] Move all zeroes to end
-- [ ] Right and left shifting of elements
+- [x] Right and left shifting of elements
 - [ ] Rank of a matrix using echolon form and also using minors
 - [ ] Remove duplicate elements in an array
 - [ ] Insertion sort
