@@ -3,7 +3,7 @@
 - [ ] Deleting an element in an array
 - [ ] Inserting an element in an array
 - [x] Trace of a matrix using functions
-- [ ] Multiplication of matrices using functions
+- [x] Multiplication of matrices using functions
 - [ ] Move all zeroes to end
 - [x] Right and left shifting of elements
 - [ ] Rank of a matrix using echolon form and also using minors
