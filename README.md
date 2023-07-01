@@ -12,5 +12,5 @@
 - [ ] Sort array in wave form
 - [ ] Find sub-array with given sum
 - [x] Merge two arrays
-- [ ] Binary Search
+- [x] Binary Search
 - [x] Reversing array elements
